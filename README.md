@@ -1,16 +1,21 @@
-### Hi there 👋
+# ✨Hannah Shin _ WooJung Shin✨
 
-<!--
-**Hannah-SWJ/Hannah-SWJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+- Unmanned areial vehicle aided communication
+- Develop elevators and app with added capabilities
+- AI-based app for airline crews
+- Predict Seoul apartment price by using public data
+- Ocular disease classifier
+- Marketing target detection and analysis system for edge computing environment
+- Collaboration project with GE Appliances a Haier Company's R&D center
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Volunteer
+- 2018 서울 디지털 재단 래 봉사단
+- 2020 대학생 멘토링 동아리 사업
+
+## 
+> 데이터 분석
+
+> 앱
+
