@@ -1,7 +1,6 @@
 # ✨Hannah Shin _ WooJung Shin✨
 
 ## Projects
-
 - Unmanned areial vehicle aided communication
 - Develop elevators and app with added capabilities
 - AI-based app for airline crews
